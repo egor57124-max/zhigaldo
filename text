@@ -1,0 +1,6 @@
+air-hockey-game/
+│
+├── index.html          # Главный файл игры (весь код внутри)
+├── README.md           # Описание игры
+├── screenshot.png      # Скриншот для превью
+└── manifest.json       # Для PWA (установка на телефон)
