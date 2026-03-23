@@ -1,0 +1,22 @@
+{
+  "name": "Воздушный хоккей: Три кота",
+  "short_name": "Хоккей Три Кота",
+  "description": "Игра в воздушный хоккей с персонажами Три кота",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a472a",
+  "theme_color": "#ff9f4a",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
