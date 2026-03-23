@@ -1,0 +1,60 @@
+# Зависимости (если позже добавите npm)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Логи
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Редакторы и IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+*.tmp
+*.temp
+*.cache
+
+# Системные файлы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Файлы сборки (если будете минифицировать)
+dist/
+build/
+*.min.js
+*.min.css
+
+# Конфиги с паролями (если добавите)
+.env
+.env.local
+.env.production
+
+# Бекапы
+*.bak
+*.backup
+
+# Screenshots (локальные скриншоты не нужны в репозитории, лучше хранить отдельно)
+screenshot-local.png
+preview-local.jpg
+
+# Файлы пользователей (если добавите сохранения)
+scores.json
+user-data.json
+
+# Локальные настройки сервера
+.vscode/settings.json
+.idea/workspace.xml
